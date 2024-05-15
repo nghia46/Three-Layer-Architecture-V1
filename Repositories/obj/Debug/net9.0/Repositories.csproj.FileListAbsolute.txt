@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\bin\Debug\net9.0\Repositories.deps.json
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\bin\Debug\net9.0\Repositories.dll
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\bin\Debug\net9.0\Repositories.pdb
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\obj\Debug\net9.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\obj\Debug\net9.0\Repositories.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\obj\Debug\net9.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\obj\Debug\net9.0\Repositories.dll
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\obj\Debug\net9.0\refint\Repositories.dll
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\obj\Debug\net9.0\Repositories.pdb
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\obj\Debug\net9.0\ref\Repositories.dll
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\obj\Debug\net9.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\bin\Debug\net9.0\BusinessObjects.dll
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\bin\Debug\net9.0\BusinessObjects.pdb
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\obj\Debug\net9.0\Reposito.787EC4B2.Up2Date
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\bin\Debug\net9.0\DAO.dll
+C:\Users\Administrator\Desktop\PRN231_1\Repositories\bin\Debug\net9.0\DAO.pdb

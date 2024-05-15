@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6A69E2-2A5F-4502-81FE-A5AF08DCDC25}|API\\API.csproj|c:\\users\\administrator\\desktop\\prn231_1\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC6A69E2-2A5F-4502-81FE-A5AF08DCDC25}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6A69E2-2A5F-4502-81FE-A5AF08DCDC25}|API\\API.csproj|c:\\users\\administrator\\desktop\\prn231_1\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6A69E2-2A5F-4502-81FE-A5AF08DCDC25}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2831605-2752-431A-BA61-513F8DC08042}|DAO\\DAO.csproj|c:\\users\\administrator\\desktop\\prn231_1\\dao\\prn2311context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2831605-2752-431A-BA61-513F8DC08042}|DAO\\DAO.csproj|solutionrelative:dao\\prn2311context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC363E7A-6642-4EEA-9ACF-0EC9BBF0ECE8}|Repositories\\Repositories.csproj|c:\\users\\administrator\\desktop\\prn231_1\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC363E7A-6642-4EEA-9ACF-0EC9BBF0ECE8}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2831605-2752-431A-BA61-513F8DC08042}|DAO\\DAO.csproj|c:\\users\\administrator\\desktop\\prn231_1\\dao\\account\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2831605-2752-431A-BA61-513F8DC08042}|DAO\\DAO.csproj|solutionrelative:dao\\account\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD71341-BD02-4167-971A-CC895CC490E9}|Services\\Services.csproj|c:\\users\\administrator\\desktop\\prn231_1\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD71341-BD02-4167-971A-CC895CC490E9}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC363E7A-6642-4EEA-9ACF-0EC9BBF0ECE8}|Repositories\\Repositories.csproj|c:\\users\\administrator\\desktop\\prn231_1\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC363E7A-6642-4EEA-9ACF-0EC9BBF0ECE8}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6A69E2-2A5F-4502-81FE-A5AF08DCDC25}|API\\API.csproj|c:\\users\\administrator\\desktop\\prn231_1\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6A69E2-2A5F-4502-81FE-A5AF08DCDC25}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD71341-BD02-4167-971A-CC895CC490E9}|Services\\Services.csproj|c:\\users\\administrator\\desktop\\prn231_1\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD71341-BD02-4167-971A-CC895CC490E9}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T04:36:29.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:51:26.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\DAO\\Account\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\Account\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\DAO\\Account\\AccountDAO.cs",
+              "RelativeToolTip": "DAO\\Account\\AccountDAO.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABwAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:42:16.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prn2311Context.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\DAO\\Prn2311Context.cs",
+              "RelativeDocumentMoniker": "DAO\\Prn2311Context.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\DAO\\Prn2311Context.cs",
+              "RelativeToolTip": "DAO\\Prn2311Context.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:01:48.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:38:34.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:38:23.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwAkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:40:44.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:19:20.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PRN231_1\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:51:28.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
